@@ -4,4 +4,10 @@ This app uses ember-cli + ember-model-latest.
 
 ## How to use
 
-`npm install -g ember-cli` and then `ember server` inside of the app directory.
+```
+cd ember-model-sample-app
+npm install -g ember-cli
+npm install
+bower install
+ember server
+```
